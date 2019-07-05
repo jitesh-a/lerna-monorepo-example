@@ -1,0 +1,11 @@
+{
+  "name": "@lerna/project-a",
+  "version": "1.0.0",
+  "description": "Project to calculate sum of two numbers",
+  "main": "index.js",
+  "author": "Jitesh Ahuja <jitesh.ahuja@outlook.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "node test.js"
+  }
+}

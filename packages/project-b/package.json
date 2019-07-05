@@ -1,0 +1,14 @@
+{
+  "name": "@lerna/project-b",
+  "version": "1.0.0",
+  "description": "Project b",
+  "main": "index.js",
+  "author": "Jitesh Ahuja <jitesh.ahuja@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@lerna/project-a": "^1.0.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  }
+}
